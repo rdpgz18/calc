@@ -2,7 +2,7 @@
 a calculator program with the python programming language
 
 <h3>How To Install</h3>
-<code>
+<div style="background:silver;padding:10px;">
 <ul style="list-style:none;">
   <li>apt update && upgrade</li>
   <li>apt install python</li>
@@ -12,4 +12,4 @@ a calculator program with the python programming language
   <li>ls</li>
   <li>python calcel.py</li>
 </ul>
-</code>
+</div>
