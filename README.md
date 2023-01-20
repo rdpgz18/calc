@@ -7,7 +7,7 @@ a calculator program with the python programming language
   <li>apt update && upgrade</li>
   <li>apt install python</li>
   <li>apt install git</li>
-  <li>git clone <link>https://github.com/rdpgz18/calc</link> </li>
+  <li>git clone <a href="https://github.com/rdpgz18/calc">https://github.com/rdpgz18/calc</a> </li>
   <li>cd calc</li>
   <li>ls</li>
   <li>python calcel.py</li>
