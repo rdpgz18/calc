@@ -2,7 +2,7 @@
 a calculator program with the python programming language
 
 <h3>How To Install</h3>
-<code style="background: silver;">
+<code>
 <ul style="list-style:none;">
   <li>apt update && upgrade</li>
   <li>apt install python</li>
